@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HPMISHRAA/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/HPMISHRAA/Leetcode/tree/master/0027-remove-element) |
 | [0169-majority-element](https://github.com/HPMISHRAA/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/HPMISHRAA/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/HPMISHRAA/Leetcode/tree/master/0283-move-zeroes) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HPMISHRAA/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/HPMISHRAA/Leetcode/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/HPMISHRAA/Leetcode/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/HPMISHRAA/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
