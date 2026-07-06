@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/HPMISHRAA/Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HPMISHRAA/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/HPMISHRAA/Leetcode/tree/master/0027-remove-element) |
+| [0048-rotate-image](https://github.com/HPMISHRAA/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/HPMISHRAA/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/HPMISHRAA/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/HPMISHRAA/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/HPMISHRAA/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/HPMISHRAA/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/HPMISHRAA/Leetcode/tree/master/0268-missing-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/HPMISHRAA/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/HPMISHRAA/Leetcode/tree/master/0048-rotate-image) |
 | [2965-find-missing-and-repeated-values](https://github.com/HPMISHRAA/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Heap (Priority Queue)
 |  |
