@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/HPMISHRAA/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/HPMISHRAA/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/HPMISHRAA/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/HPMISHRAA/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0875-koko-eating-bananas](https://github.com/HPMISHRAA/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/HPMISHRAA/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/HPMISHRAA/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/HPMISHRAA/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/HPMISHRAA/Leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/HPMISHRAA/Leetcode/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/HPMISHRAA/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2965-find-missing-and-repeated-values](https://github.com/HPMISHRAA/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/HPMISHRAA/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Binary Search
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/HPMISHRAA/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/HPMISHRAA/Leetcode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/HPMISHRAA/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/HPMISHRAA/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/HPMISHRAA/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HPMISHRAA/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2706-buy-two-chocolates](https://github.com/HPMISHRAA/Leetcode/tree/master/2706-buy-two-chocolates) |
