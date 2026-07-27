@@ -15,23 +15,22 @@ class Solution {
         }
         ListNode temp=head;
         ArrayList<Integer> arr=new ArrayList<>();
-        ListNode odd=head;
-        ListNode even=head.next;
-
-        while(odd!=null && odd.next!=null){
-            arr.add(odd.val);
-            odd=odd.next.next;
+        while(temp!=null && temp.next!=null){
+            arr.add(temp.val);
+            temp=temp.next.next;
         }
-        if(odd!=null){
-            arr.add(odd.val);
+        if(temp!=null){
+            arr.add(temp.val);
         }
-         while(even!=null && even.next!=null){
-            arr.add(even.val);
-            even=even.next.next;
+        temp=head.next;
+         while(temp!=null && temp.next!=null){
+            arr.add(temp.val);
+            temp=temp.next.next;
         }
-        if(even!=null){
-            arr.add(even.val);
+        if(temp!=null){
+            arr.add(temp.val);
         }
+        temp=head;
         int i=0;
         while(temp!=null){
             temp.val=arr.get(i++);
