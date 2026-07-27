@@ -10,32 +10,53 @@
  */
 class Solution {
     public ListNode oddEvenList(ListNode head) {
+
+        // Brute Force using extra space
+
+        // if (head == null || head.next == null) {
+        //     return head;
+        // }
+        // ListNode temp = head;
+        // ArrayList<Integer> arr = new ArrayList<>();
+        // while (temp != null && temp.next != null) {
+        //     arr.add(temp.val);
+        //     temp = temp.next.next;
+        // }
+        // if (temp != null) {
+        //     arr.add(temp.val);
+        // }
+        // temp = head.next;
+        // while (temp != null && temp.next != null) {
+        //     arr.add(temp.val);
+        //     temp = temp.next.next;
+        // }
+        // if (temp != null) {
+        //     arr.add(temp.val);
+        // }
+        // temp = head;
+        // int i = 0;
+        // while (temp != null) {
+        //     temp.val = arr.get(i++);
+        //     temp = temp.next;
+        // }
+        // return head;
+
+        // Optimized
+
         if(head==null ||head.next==null){
             return head;
         }
-        ListNode temp=head;
-        ArrayList<Integer> arr=new ArrayList<>();
-        while(temp!=null && temp.next!=null){
-            arr.add(temp.val);
-            temp=temp.next.next;
+        ListNode odd=head;
+        ListNode even=head.next;
+        ListNode evenHead=head.next;
+        while(even!=null && even.next!=null){
+            odd.next=odd.next.next;
+            even.next=even.next.next;
+
+            odd=odd.next;
+            even=even.next;
         }
-        if(temp!=null){
-            arr.add(temp.val);
-        }
-        temp=head.next;
-         while(temp!=null && temp.next!=null){
-            arr.add(temp.val);
-            temp=temp.next.next;
-        }
-        if(temp!=null){
-            arr.add(temp.val);
-        }
-        temp=head;
-        int i=0;
-        while(temp!=null){
-            temp.val=arr.get(i++);
-            temp=temp.next;
-        }
+        odd.next=evenHead;
         return head;
     }
 }
