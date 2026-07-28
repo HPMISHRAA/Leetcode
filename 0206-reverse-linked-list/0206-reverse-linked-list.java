@@ -10,26 +10,35 @@
  */
 class Solution {
     public ListNode reverseList(ListNode head) {
-        if(head==null || head.next==null){
+        if (head == null || head.next == null) {
             return head;
         }
         ListNode temp=head;
-        // ArrayList<Integer> arr=new ArrayList<>();
-        Stack<Integer> sc=new Stack<>();
-        while(temp!=null){
-            // arr.add(temp.val);
-            sc.push(temp.val);
-            temp=temp.next;
-        }
-        temp=head;
-        while(!sc.isEmpty()){
-            temp.val=sc.pop();
-            temp=temp.next;
-        }
-        // for(int i=arr.size()-1;i>=0;i--){
-        //     temp.val=arr.get(i);
+        // Using Stack
+        // Stack<Integer> sc=new Stack<>();
+        // while(temp!=null){
+        //     // arr.add(temp.val);
+        //     sc.push(temp.val);
         //     temp=temp.next;
         // }
+        // temp=head;
+        // while(!sc.isEmpty()){
+        //     temp.val=sc.pop();
+        //     temp=temp.next;
+        // }
+
+        // -------using ArrayList
+        ArrayList<Integer> arr = new ArrayList<>();
+        while (temp != null) {
+            arr.add(temp.val);
+            temp = temp.next;
+        }
+        temp = head;
+
+        for (int i = arr.size() - 1; i >= 0; i--) {
+            temp.val = arr.get(i);
+            temp = temp.next;
+        }
         return head;
     }
 }
