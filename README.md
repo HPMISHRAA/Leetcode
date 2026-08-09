@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/HPMISHRAA/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/HPMISHRAA/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/HPMISHRAA/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/HPMISHRAA/Leetcode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/HPMISHRAA/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/HPMISHRAA/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/HPMISHRAA/Leetcode/tree/master/0090-subsets-ii) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/HPMISHRAA/Leetcode/tree/master/0048-rotate-image) |
+| [0079-word-search](https://github.com/HPMISHRAA/Leetcode/tree/master/0079-word-search) |
 | [2965-find-missing-and-repeated-values](https://github.com/HPMISHRAA/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Heap (Priority Queue)
 |  |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HPMISHRAA/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/HPMISHRAA/Leetcode/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/HPMISHRAA/Leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/HPMISHRAA/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/HPMISHRAA/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/HPMISHRAA/Leetcode/tree/master/0344-reverse-string) |
@@ -234,10 +237,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/HPMISHRAA/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/HPMISHRAA/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/HPMISHRAA/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/HPMISHRAA/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/HPMISHRAA/Leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/HPMISHRAA/Leetcode/tree/master/0131-palindrome-partitioning) |
 ## Interactive
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/HPMISHRAA/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/HPMISHRAA/Leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
