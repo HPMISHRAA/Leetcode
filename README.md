@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/HPMISHRAA/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HPMISHRAA/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/HPMISHRAA/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1748-sum-of-unique-elements](https://github.com/HPMISHRAA/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/HPMISHRAA/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/HPMISHRAA/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2706-buy-two-chocolates](https://github.com/HPMISHRAA/Leetcode/tree/master/2706-buy-two-chocolates) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/HPMISHRAA/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/HPMISHRAA/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/HPMISHRAA/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1748-sum-of-unique-elements](https://github.com/HPMISHRAA/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/HPMISHRAA/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/HPMISHRAA/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3046-split-the-array](https://github.com/HPMISHRAA/Leetcode/tree/master/3046-split-the-array) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/HPMISHRAA/Leetcode/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/HPMISHRAA/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/HPMISHRAA/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1748-sum-of-unique-elements](https://github.com/HPMISHRAA/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/HPMISHRAA/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [3046-split-the-array](https://github.com/HPMISHRAA/Leetcode/tree/master/3046-split-the-array) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/HPMISHRAA/Leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
