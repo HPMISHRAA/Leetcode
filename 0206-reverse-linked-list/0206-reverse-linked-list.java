@@ -28,6 +28,8 @@ class Solution {
         // }
 
         // -------using ArrayList
+
+        /*
         ArrayList<Integer> arr = new ArrayList<>();
         while (temp != null) {
             arr.add(temp.val);
@@ -40,5 +42,14 @@ class Solution {
             temp = temp.next;
         }
         return head;
+        */
+
+        
+        ListNode newHead=reverseList(head.next);
+        ListNode front=head.next;
+        front.next=head;
+        head.next=null;
+
+        return newHead;
     }
 }
