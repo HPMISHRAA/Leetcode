@@ -25,7 +25,7 @@ public class Solution {
         }
         return null;
         */
-
+        /*
         ListNode temp1 = headA;
         ListNode temp2 = headB;
         int count1 = 0, count2 = 0;
@@ -42,18 +42,38 @@ public class Solution {
         } else {
             return collision(headB, headA, count1 - count2);
         }
+        */
+
+        ListNode d1 = headA;
+        ListNode d2 = headB;
+        while (d1 != d2) {
+            d1 = d1.next;
+            d2 = d2.next;
+            if (d1 == d2) {
+                return d1;
+            }
+            if (d1 == null) {
+                d1 = headB;
+            }
+            if (d2 == null) {
+                d2 = headA;
+            }
+        }
+        return d1;
     }
 
+    /*
     public static ListNode collision(ListNode smaller, ListNode bigger, int step) {
-        ListNode temp1 = smaller;
-        ListNode temp2 = bigger;
-        for (int i = 0; i < step; i++) {
-            temp2 = temp2.next;
-        }
-        while (temp1 != temp2) {
-            temp1 = temp1.next;
-            temp2 = temp2.next;
-        }
-        return temp1;
+    ListNode temp1 = smaller;
+    ListNode temp2 = bigger;
+    for (int i = 0; i < step; i++) {
+        temp2 = temp2.next;
     }
+    while (temp1 != temp2) {
+        temp1 = temp1.next;
+        temp2 = temp2.next;
+    }
+    return temp1;
+    }
+    */
 }
