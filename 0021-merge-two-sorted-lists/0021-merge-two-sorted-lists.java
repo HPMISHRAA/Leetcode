@@ -10,6 +10,7 @@
  */
 class Solution {
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
+        /*
         ArrayList<Integer> arr = new ArrayList<>();
         ListNode temp1 = list1;
         ListNode temp2 = list2;
@@ -29,5 +30,28 @@ class Solution {
             temp = temp.next;
         }
         return dummyNode.next;
+        */
+
+        ListNode temp1 = list1;
+        ListNode temp2 = list2;
+        ListNode dummy = new ListNode(-1);
+        ListNode dummyNext = dummy;
+        while (temp1 != null && temp2 != null) {
+            if (temp1.val < temp2.val) {
+                dummyNext.next = temp1;
+                dummyNext = dummyNext.next;
+                temp1 = temp1.next;
+            } else {
+                dummyNext.next = temp2;
+                dummyNext = dummyNext.next;
+                temp2 = temp2.next;
+            }
+        }
+        if (temp1 != null) {
+            dummyNext.next = temp1;
+        } else {
+            dummyNext.next = temp2;
+        }
+        return dummy.next;
     }
 }
