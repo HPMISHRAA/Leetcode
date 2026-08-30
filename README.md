@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/HPMISHRAA/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/HPMISHRAA/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/HPMISHRAA/Leetcode/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/HPMISHRAA/Leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/HPMISHRAA/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HPMISHRAA/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/HPMISHRAA/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/HPMISHRAA/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/HPMISHRAA/Leetcode/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/HPMISHRAA/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/HPMISHRAA/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/HPMISHRAA/Leetcode/tree/master/0389-find-the-difference) |
 ## Sorting
