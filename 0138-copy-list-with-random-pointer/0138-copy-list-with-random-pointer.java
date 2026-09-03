@@ -15,6 +15,7 @@ class Node {
 
 class Solution {
     public Node copyRandomList(Node head) {
+        /*
         if (head == null) {
             return null;
         }
@@ -33,5 +34,45 @@ class Solution {
             temp = temp.next;
         }
         return map.get(head);
+        */
+        insertInBetween(head);
+        copyRandomPointer(head);
+        return extractCopyLL(head);
+    }
+
+    public static void insertInBetween(Node head) {
+        Node temp = head;
+        while (temp != null) {
+            Node copy = new Node(temp.val);
+            copy.next = temp.next;
+            temp.next = copy;
+            temp = temp.next.next;
+        }
+    }
+
+    public static void copyRandomPointer(Node head) {
+        Node temp = head;
+        while (temp != null) {
+            Node copy = temp.next;
+            if (temp.random != null) {
+                copy.random = temp.random.next;
+            } else {
+                copy.random = null;
+            }
+            temp = temp.next.next;
+        }
+    }
+
+    public static Node extractCopyLL(Node head) {
+        Node temp = head;
+        Node dummy = new Node(-1);
+        Node res = dummy;
+        while (temp != null) {
+            res.next = temp.next;
+            res = res.next;
+            temp.next = temp.next.next;
+            temp = temp.next;
+        }
+        return dummy.next;
     }
 }
