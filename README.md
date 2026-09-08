@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/HPMISHRAA/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/HPMISHRAA/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/HPMISHRAA/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0771-jewels-and-stones](https://github.com/HPMISHRAA/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/HPMISHRAA/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/HPMISHRAA/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/HPMISHRAA/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/HPMISHRAA/Leetcode/tree/master/0389-find-the-difference) |
 | [0520-detect-capital](https://github.com/HPMISHRAA/Leetcode/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/HPMISHRAA/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0771-jewels-and-stones](https://github.com/HPMISHRAA/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/HPMISHRAA/Leetcode/tree/master/0796-rotate-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/HPMISHRAA/Leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Number Theory
