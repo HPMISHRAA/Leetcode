@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/HPMISHRAA/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HPMISHRAA/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/HPMISHRAA/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1528-shuffle-string](https://github.com/HPMISHRAA/Leetcode/tree/master/1528-shuffle-string) |
 | [1748-sum-of-unique-elements](https://github.com/HPMISHRAA/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/HPMISHRAA/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/HPMISHRAA/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/HPMISHRAA/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0771-jewels-and-stones](https://github.com/HPMISHRAA/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/HPMISHRAA/Leetcode/tree/master/0796-rotate-string) |
+| [1528-shuffle-string](https://github.com/HPMISHRAA/Leetcode/tree/master/1528-shuffle-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/HPMISHRAA/Leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Number Theory
 |  |
