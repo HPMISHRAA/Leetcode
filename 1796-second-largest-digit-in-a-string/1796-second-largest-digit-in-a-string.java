@@ -1,20 +1,19 @@
 class Solution {
     public int secondHighest(String s) {
-        int fmax = -1;
-        int smax = -1;
+        int flargest = -1;
+        int slargest = -1;
         for (int i = 0; i < s.length(); i++) {
             char ch = s.charAt(i);
             if (ch >= '0' && ch <= '9') {
                 int digit = ch - '0';
-
-                if (digit > fmax) {
-                    smax = fmax;
-                    fmax = digit;
-                } else if (digit < fmax && digit > smax) {
-                    smax = digit;
+                if (digit > flargest) {
+                    slargest = flargest;
+                    flargest = digit;
+                } else if (digit < flargest && digit > slargest) {
+                    slargest = digit;
                 }
             }
         }
-        return smax;
+        return slargest;
     }
 }
