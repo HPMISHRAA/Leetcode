@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/HPMISHRAA/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HPMISHRAA/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/HPMISHRAA/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/HPMISHRAA/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [2965-find-missing-and-repeated-values](https://github.com/HPMISHRAA/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/HPMISHRAA/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Binary Search
