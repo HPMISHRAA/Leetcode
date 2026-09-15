@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/HPMISHRAA/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HPMISHRAA/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/HPMISHRAA/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1903-largest-odd-number-in-string](https://github.com/HPMISHRAA/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/HPMISHRAA/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [2965-find-missing-and-repeated-values](https://github.com/HPMISHRAA/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/HPMISHRAA/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/HPMISHRAA/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1528-shuffle-string](https://github.com/HPMISHRAA/Leetcode/tree/master/1528-shuffle-string) |
 | [1796-second-largest-digit-in-a-string](https://github.com/HPMISHRAA/Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
+| [1903-largest-odd-number-in-string](https://github.com/HPMISHRAA/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/HPMISHRAA/Leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Number Theory
 |  |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1903-largest-odd-number-in-string](https://github.com/HPMISHRAA/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2706-buy-two-chocolates](https://github.com/HPMISHRAA/Leetcode/tree/master/2706-buy-two-chocolates) |
 ## Queue
 |  |
