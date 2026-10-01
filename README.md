@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/HPMISHRAA/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/HPMISHRAA/Leetcode/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/HPMISHRAA/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/HPMISHRAA/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/HPMISHRAA/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/HPMISHRAA/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/HPMISHRAA/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/HPMISHRAA/Leetcode/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/HPMISHRAA/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/HPMISHRAA/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/HPMISHRAA/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1528-shuffle-string](https://github.com/HPMISHRAA/Leetcode/tree/master/1528-shuffle-string) |
 | [1796-second-largest-digit-in-a-string](https://github.com/HPMISHRAA/Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1859-sorting-the-sentence](https://github.com/HPMISHRAA/Leetcode/tree/master/1859-sorting-the-sentence) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/HPMISHRAA/Leetcode/tree/master/0409-longest-palindrome) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/HPMISHRAA/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/HPMISHRAA/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2706-buy-two-chocolates](https://github.com/HPMISHRAA/Leetcode/tree/master/2706-buy-two-chocolates) |
 ## Queue
