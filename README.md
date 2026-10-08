@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/HPMISHRAA/Leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/HPMISHRAA/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/HPMISHRAA/Leetcode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/HPMISHRAA/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/HPMISHRAA/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/HPMISHRAA/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/HPMISHRAA/Leetcode/tree/master/0079-word-search) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/HPMISHRAA/Leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/HPMISHRAA/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/HPMISHRAA/Leetcode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/HPMISHRAA/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/HPMISHRAA/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/HPMISHRAA/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/HPMISHRAA/Leetcode/tree/master/0268-missing-number) |
