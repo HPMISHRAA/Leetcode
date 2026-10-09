@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/HPMISHRAA/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/HPMISHRAA/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/HPMISHRAA/Leetcode/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/HPMISHRAA/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/HPMISHRAA/Leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/HPMISHRAA/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HPMISHRAA/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/HPMISHRAA/Leetcode/tree/master/0258-add-digits) |
 | [0844-backspace-string-compare](https://github.com/HPMISHRAA/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/HPMISHRAA/Leetcode/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/HPMISHRAA/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/HPMISHRAA/Leetcode/tree/master/0258-add-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/HPMISHRAA/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
