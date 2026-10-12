@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/HPMISHRAA/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/HPMISHRAA/Leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/HPMISHRAA/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/HPMISHRAA/Leetcode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/HPMISHRAA/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0844-backspace-string-compare](https://github.com/HPMISHRAA/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/HPMISHRAA/Leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/HPMISHRAA/Leetcode/tree/master/0053-maximum-subarray) |
 | [0131-palindrome-partitioning](https://github.com/HPMISHRAA/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/HPMISHRAA/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/HPMISHRAA/Leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/HPMISHRAA/Leetcode/tree/master/0509-fibonacci-number) |
 ## Prefix Sum
 |  |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/HPMISHRAA/Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/HPMISHRAA/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/HPMISHRAA/Leetcode/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/HPMISHRAA/Leetcode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/HPMISHRAA/Leetcode/tree/master/0409-longest-palindrome) |
 | [0520-detect-capital](https://github.com/HPMISHRAA/Leetcode/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/HPMISHRAA/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
