@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/HPMISHRAA/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/HPMISHRAA/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/HPMISHRAA/Leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/HPMISHRAA/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/HPMISHRAA/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/HPMISHRAA/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/HPMISHRAA/Leetcode/tree/master/0268-missing-number) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/HPMISHRAA/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/HPMISHRAA/Leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/HPMISHRAA/Leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/HPMISHRAA/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/HPMISHRAA/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/HPMISHRAA/Leetcode/tree/master/0389-find-the-difference) |
 ## Sorting
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/HPMISHRAA/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/HPMISHRAA/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/HPMISHRAA/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/HPMISHRAA/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/HPMISHRAA/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/HPMISHRAA/Leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
