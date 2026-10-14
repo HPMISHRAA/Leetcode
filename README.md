@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/HPMISHRAA/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/HPMISHRAA/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/HPMISHRAA/Leetcode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/HPMISHRAA/Leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/HPMISHRAA/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HPMISHRAA/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/HPMISHRAA/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/HPMISHRAA/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/HPMISHRAA/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/HPMISHRAA/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/HPMISHRAA/Leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/HPMISHRAA/Leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
