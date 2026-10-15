@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/HPMISHRAA/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/HPMISHRAA/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/HPMISHRAA/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/HPMISHRAA/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HPMISHRAA/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/HPMISHRAA/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1528-shuffle-string](https://github.com/HPMISHRAA/Leetcode/tree/master/1528-shuffle-string) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/HPMISHRAA/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/HPMISHRAA/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Stack
 |  |
 | ------- |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/HPMISHRAA/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/HPMISHRAA/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
