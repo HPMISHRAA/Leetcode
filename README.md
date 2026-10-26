@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/HPMISHRAA/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/HPMISHRAA/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/HPMISHRAA/Leetcode/tree/master/0342-power-of-four) |
+| [0415-add-strings](https://github.com/HPMISHRAA/Leetcode/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/HPMISHRAA/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HPMISHRAA/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/HPMISHRAA/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/HPMISHRAA/Leetcode/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/HPMISHRAA/Leetcode/tree/master/0415-add-strings) |
 | [0844-backspace-string-compare](https://github.com/HPMISHRAA/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/HPMISHRAA/Leetcode/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/HPMISHRAA/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/HPMISHRAA/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/HPMISHRAA/Leetcode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/HPMISHRAA/Leetcode/tree/master/0409-longest-palindrome) |
+| [0415-add-strings](https://github.com/HPMISHRAA/Leetcode/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/HPMISHRAA/Leetcode/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/HPMISHRAA/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0771-jewels-and-stones](https://github.com/HPMISHRAA/Leetcode/tree/master/0771-jewels-and-stones) |
