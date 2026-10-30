@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/HPMISHRAA/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/HPMISHRAA/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/HPMISHRAA/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/HPMISHRAA/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/HPMISHRAA/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/HPMISHRAA/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/HPMISHRAA/Leetcode/tree/master/0202-happy-number) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/HPMISHRAA/Leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/HPMISHRAA/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/HPMISHRAA/Leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/HPMISHRAA/Leetcode/tree/master/0136-single-number) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/HPMISHRAA/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/HPMISHRAA/Leetcode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/HPMISHRAA/Leetcode/tree/master/0415-add-strings) |
 | [0844-backspace-string-compare](https://github.com/HPMISHRAA/Leetcode/tree/master/0844-backspace-string-compare) |
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/HPMISHRAA/Leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HPMISHRAA/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/HPMISHRAA/Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/HPMISHRAA/Leetcode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/HPMISHRAA/Leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/HPMISHRAA/Leetcode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/HPMISHRAA/Leetcode/tree/master/0131-palindrome-partitioning) |
