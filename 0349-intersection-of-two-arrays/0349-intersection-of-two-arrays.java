@@ -4,15 +4,15 @@ class Solution {
         for (int val : nums1) {
             first.add(val);
         }
-        HashSet<Integer> result = new HashSet<>();
+        HashSet<Integer> second = new HashSet<>();
         for (int val : nums2) {
             if (first.contains(val)) {
-                result.add(val);
+                second.add(val);
             }
         }
-        int[] arr = new int[result.size()];
+        int[] arr = new int[second.size()];
         int i = 0;
-        for (int val : result) {
+        for (int val : second) {
             arr[i++] = val;
         }
         return arr;
